@@ -31,8 +31,8 @@ header {
 
 .header__socials::after {
     content: '';
-    width: 1px;
-    height: 2rem;
+    width: 2px;
+    height: 5rem;
     background: var(--color-primary);
 }
 
@@ -43,10 +43,10 @@ header {
     height: 31.79rem;
     position: absolute;
     left: calc(50% - 15rem);
-    margin-top: 4rem;
+    margin-top: 5rem;
     border-radius: 10rem 10rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: rem 1.5rem 1.5rem 1.5rem;
 }
 
 /* ======== Scrool para baixo ========*/

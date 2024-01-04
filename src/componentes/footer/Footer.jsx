@@ -7,22 +7,20 @@ import { FaXTwitter } from "react-icons/fa6";
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>PH4$</a>
+      <a href="#" className='footer__logo'>Pedro L.</a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
-        <li><a href="About">About</a></li>
-        <li><a href="Experience">Experience</a></li>
-        <li><a href="Services">Services</a></li>
-        <li><a href="Portfolio">Portfolio</a></li>
-        <li><a href="Testimonials">Testimonials</a></li>
-        <li><a href="COntact">COntact</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#service">Services</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebook/></a>
-        <a href="https://instagram.com"><FaInstagram/></a>
-        <a href="https://twitter.com"><FaXTwitter/></a>
+        <a href="https://www.facebook.com/profile.php?id=61555043800560" target='_blank'><FaFacebook/></a>
+        <a href="https://www.instagram.com/ph4zzmount/" target='_blank'><FaInstagram/></a>
+        <a href="https://twitter.com" target='_blank'><FaXTwitter/></a>
       </div>
 
 

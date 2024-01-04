@@ -17,19 +17,27 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
+              <p>Design de Interfaces.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
+              <p>Experiência do Usuário.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
+              <p>Usabilidade de Testes.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
+              <p>Design Responsivo.</p>
+            </li>
+            <li>
+              <GiCheckMark className='service__list-icon' />
+              <p>Design de Interações.</p>
+            </li>
+            <li>
+              <GiCheckMark className='service__list-icon' />
+              <p>Consistência Visual.</p>
             </li>
           </ul>
         </article>
@@ -42,55 +50,20 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
+              <p>Desenvolvimento Front-End.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
+              <p>Desenvolvimento de Aplicações Web.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
-            </li>
-            <li>
-              <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
-            </li>
-            <li>
-              <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
-            </li>
-            <li>
-              <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXXXX</p>
+              <p>Integração de APIs.</p>
             </li>
           </ul>
         </article>
         {/*FIM de Desenvolvimento WEB*/}
-        <article className='service'>
-          <div className='service__head'>
-            <h3>Criação de conteudo</h3>
-          </div>
-
-          <ul className='service__list'>
-            <li>
-              <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXX</p>
-            </li>
-            <li>
-              <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXX</p>
-            </li>
-            <li>
-              <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXX</p>
-            </li>
-            <li>
-              <GiCheckMark className='service__list-icon' />
-              <p>XXXXXXXXXXXXXXXXXXXXXX</p>
-            </li>
-          </ul>
-        </article>
+        
         {/*FIM de Criação de conteudo*/}
       </div>
     </section>

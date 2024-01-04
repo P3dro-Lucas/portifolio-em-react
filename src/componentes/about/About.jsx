@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import EU from '../../assets/Eu-sobre.png'
+import EU from '../../assets/Pedro-sem-fundo.png'
 import {SlBadge} from 'react-icons/sl'
 import {FaUsers} from 'react-icons/fa'
 import {AiFillFolder} from 'react-icons/ai'
@@ -41,10 +41,8 @@ const about = () => {
             </div>
 
             <p>
-              Texto generico  grande com um resumo meu, e sobre oque faço.
-              Texto generico  grande com um resumo meu, e sobre oque faço.
-              Texto generico  grande com um resumo meu, e sobre oque faço.
-              Texto generico  grande com um resumo meu, e sobre oque faço.
+              Meu nome é Pedro Lucas. Tenho 21 anos e ingressei para a área de front-end recentemente.
+              Tenho finalizando meu curso de Ciências da Computação em Dezembro de 2023.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Vamos conversar</a>  
