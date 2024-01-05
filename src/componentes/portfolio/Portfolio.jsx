@@ -15,60 +15,40 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="" />
           </div>
-          <h3>Este é o titulo de um item do portfolio.</h3>
+          <h3>Projeto "data-finance-yt", um site de finanças.</h3>
           <div className="portfolio__item-cta">
-            <a href="" className='btn' target='_blank'>Github</a>
-            <a href="" className='btn btn-primary' target='_blank'>Demonstração</a>
-          </div>
+            <a href="https://github.com/P3dro-Lucas/data-finance-yt" className='btn' target='_blank'>Github</a>
+            {/*<a href="" className='btn btn-primary' target='_blank'>Demonstração</a>*/}
+            </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="" />
           </div>
-          <h3>Este é o titulo de um item do portfolio.</h3>
+          <h3>Projeto com regex Projeto-KIT.</h3>
           <div className="portfolio__item-cta">
-            <a href="" className='btn' target='_blank'>Github</a>
-            <a href="" className='btn btn-primary' target='_blank'>Demonstração</a>
-          </div>
+            <a href="https://github.com/P3dro-Lucas/Projeto-KIT-" className='btn' target='_blank'>Github</a>
+            {/*<a href="" className='btn btn-primary' target='_blank'>Demonstração</a>*/}
+            </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="" />
           </div>
-          <h3>Este é o titulo de um item do portfolio.</h3>
+          <h3>App-de-Clima com uma chave API para retornar o clima de qualquer lugar.</h3>
           <div className="portfolio__item-cta">
-            <a href="" className='btn' target='_blank'>Github</a>
-            <a href="" className='btn btn-primary' target='_blank'>Demonstração</a>
-          </div>
+            <a href="https://github.com/P3dro-Lucas/App-de-Clima" className='btn' target='_blank'>Github</a>
+            {/*<a href="" className='btn btn-primary' target='_blank'>Demonstração</a>*/}
+            </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG1} alt="" />
           </div>
-          <h3>Este é o titulo de um item do portfolio.</h3>
+          <h3>Criação do meu primeiro CRUD com vite.</h3>
           <div className="portfolio__item-cta">
-            <a href="" className='btn' target='_blank'>Github</a>
-            <a href="" className='btn btn-primary' target='_blank'>Demonstração</a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={IMG1} alt="" />
-          </div>
-          <h3>Este é o titulo de um item do portfolio.</h3>
-          <div className="portfolio__item-cta">
-            <a href="" className='btn' target='_blank'>Github</a>
-            <a href="" className='btn btn-primary' target='_blank'>Demonstração</a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={IMG1} alt="" />
-          </div>
-          <h3>Este é o titulo de um item do portfolio.</h3>
-          <div className="portfolio__item-cta">
-            <a href="" className='btn' target='_blank'>Github</a>
-            <a href="" className='btn btn-primary' target='_blank'>Demonstração</a>
+            <a href="https://github.com/P3dro-Lucas/CRUD-com-vite" className='btn' target='_blank'>Github</a>
+            {/*<a href="" className='btn btn-primary' target='_blank'>Demonstração</a>*/}
           </div>
         </article>
       </div>

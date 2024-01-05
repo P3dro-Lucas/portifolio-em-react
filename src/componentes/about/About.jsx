@@ -30,19 +30,21 @@ const about = () => {
               <article className='about__card'>
                 <FaUsers className='about__icon' />
                 <h5>Clientes</h5>
-                <small>Numero de clientes aqui.</small>
+                <small>0</small>
               </article>
 
               <article className='about__card'>
                 <AiFillFolder className='about__icon' />
                 <h5>Projetos</h5>
-                <small>Mais de xxx projetos.</small>
+                <small>5 Projetos.</small>
               </article>
             </div>
 
             <p>
               Meu nome é Pedro Lucas. Tenho 21 anos e ingressei para a área de front-end recentemente.
               Tenho finalizando meu curso de Ciências da Computação em Dezembro de 2023.
+              E deste de então venho estudando e praticando o Front-end com projetos praticos que encontro, 
+              e alguns de propostas de emprego em sites de freelance.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Vamos conversar</a>  
